@@ -1,8 +1,9 @@
 import React from 'react'
+import RecipeNavbar from './RecipeNavbar'
 const AddRecipe = () => {
     return (
         <div>
-
+<RecipeNavbar/>
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -26,7 +27,7 @@ const AddRecipe = () => {
                                 <select name="" id="" className="form-control">
                                     <option value="Veg">Veg</option>
                                     <option value="Non-veg">Non-veg</option>
-                                    
+
                                 </select>
                             </div>
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 xol-xxl-6">
