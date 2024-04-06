@@ -17,7 +17,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">PEANUT BUTTER COOKIES</h5>
                                         <p class="card-text">Whip up these scrumptious 3-Ingredient Peanut Butter Cookies in a snap! With just peanut butter, sugar, and an egg, you'll have a delightful treat that's perfect for satisfying your sweet tooth.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
                             </div>
@@ -27,7 +27,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">CRÈME BRÛLÉE</h5>
                                         <p class="card-text">Try this classic dessert that is easy to make and requires only a few ingredients. Rich and creamy custard is topped with a crunchy layer of caramelized sugar, making it the perfect indulgent treat.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
 
@@ -40,7 +40,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">COOKIES AND CREAM MOUSSE</h5>
                                         <p class="card-text">Whip up this dreamy Cookies and Cream Mousse for a delightful dessert experience! With a heavenly blend of crushed Oreos and creamy mousse, your taste buds will be dancing with joy.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
 
@@ -52,7 +52,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">CHEESY GARLIC BROCCOLI</h5>
                                         <p class="card-text">Broccoli never tasted so good! This cheesy garlic broccoli is a quick and easy side dish that is packed with flavor and nutrition.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
 
@@ -67,7 +67,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">MAC AND CHEESE</h5>
                                         <p class="card-text">Nothing says comforting and classic like mac and cheese.Ooey, gooey, and oh-so-delightful.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
 
@@ -83,7 +83,7 @@ const ViewRecipe = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">CHOCOLATE AVOCADO SMOOTHIE</h5>
                                         <p class="card-text">Chocolate avocado smoothie is a healthy and delicious way to satisfy your sweet tooth. Made with creamy avocado, rich chocolate, and almond milk, this sipper is sure to become your new favorite breakfast or snack.</p>
-                                        <a href="#" class="btn btn-primary">view</a>
+                                        <a href="#" class="btn btn-success">view</a>
                                     </div>
                                 </div>
 
